@@ -18,6 +18,7 @@ def find_smallest_number(arr):
             smallest_index = i
     return smallest_index
 
+
 def selection_sort(arr):
     """
     Loops through the array and returns sorted array
